@@ -37,6 +37,7 @@ class App extends React.Component {
               </button>
             </div>
             </div>
+            <h5 className='bg-purple-300 text-black-100 text-center py-2 flex-row'> <span>Made By <span className='animate-bounce'>-- Ritaban Ghosh</span> </span></h5>
       </div>
       </>
     );
