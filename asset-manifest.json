@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/react-quotes-generator/static/css/main.9a7f447f.css",
+    "main.js": "/react-quotes-generator/static/js/main.b389e6d5.js",
+    "index.html": "/react-quotes-generator/index.html",
+    "main.9a7f447f.css.map": "/react-quotes-generator/static/css/main.9a7f447f.css.map",
+    "main.b389e6d5.js.map": "/react-quotes-generator/static/js/main.b389e6d5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a7f447f.css",
+    "static/js/main.b389e6d5.js"
+  ]
+}
